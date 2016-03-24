@@ -1,0 +1,10 @@
+$ npm test
+TAP version 13
+# simple comparisons
+ok 1 should be equal
+
+1..1
+# tests 1
+# pass  1
+
+# ok
